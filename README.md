@@ -1,3 +1,3 @@
 ### MySite
 
-site: www.akira.top
+site: https://www.akira.top
